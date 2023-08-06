@@ -1,9 +1,11 @@
 # Hypothesis Testing for Business Operations Optimization
 
 ## Overview
+
 This project is a comprehensive statistical analysis and hypothesis testing framework designed to optimize various aspects of the business operations of a gourmet chocolate manufacturer. The project is implemented in Python and uses a variety of statistical tests to analyze and optimize different aspects of the chocolate manufacturing process.
 
 ## Features
+
 **Normality Tests and One-Sample Two-Tailed T-Tests:** Analyze the average weight of the chocolate bars, providing data-driven recommendations to ensure product consistency.
 
 **Wilcoxon Signed Rank Test:** Assess improvements in chocolate bar thickness, identifying key areas for process enhancement.
